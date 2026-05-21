@@ -1,0 +1,1 @@
+'use client'\n\nimport Dashboard from '@/components/Dashboard'\n\nexport default function Home() {\n  return <Dashboard />\n}
